@@ -10,11 +10,11 @@
 
 2. **Microsoft Edge**에서 **https://compliance.microsoft.com** 으로 이동한 다음 **Joni Sherman**으로 규정 준수 센터에 로그인합니다.
 
-3. 규정 준수 센터의 왼쪽 탐색 창에서 ***... 모두 표시**를 선택하고 **eDiscovery**를 확장한 다음 **코어**를 선택합니다.
+3. 규정 준수 센터의 왼쪽 탐색 창에서 **... 모두 표시**를 선택하고 **eDiscovery**를 확장한 다음 **코어**를 선택합니다.
 
 4. **코어 eDiscovery** 페이지에서 **+ 케이스 만들기**를 선택합니다.
 
-5. **케이스 이름**에는 *Mark 8 프로젝트 케이스*를, **케이스 설명**에는 *Mark 8 프로젝트 관련 Megan Bowen의 메일을 평가하는 데 사용할 케이스입니다.*를 입력하고 **저장**을 선택합니다.
+5. **케이스 이름**에는 *Mark 8 프로젝트 케이스*를, **케이스 설명**에는 *Mark 8 프로젝트 관련 Megan Bowen의 메일을 평가하는 데 사용할 케이스입니다.* 를 입력하고 **저장**을 선택합니다.
 
 6. **코어 eDiscovery** 페이지에서 **Mark 8 프로젝트 케이스**를 선택하고 **케이스 열기**를 선택합니다.
 
@@ -48,7 +48,7 @@ eDiscovery 케이스를 만들었으며, Mark 8 프로젝트에 대한 정보가
 
 1. **lon-cl1\admin** 계정으로 클라이언트 1 VM(LON-CL1)에 로그인합니다.
 
-2. **Microsoft Edge**에서 **https://protection.office.com**으로 이동한 다음 **MOD 관리자**로 보안 및 준수 센터에 로그인합니다.
+2. **Microsoft Edge**에서 **https://protection.office.com** 으로 이동한 다음 **MOD 관리자**로 보안 및 준수 센터에 로그인합니다.
 
 3. 왼쪽 탐색 창에서 **권한**을 선택하고 **레코드 관리** 역할을 선택합니다.
 
@@ -72,7 +72,7 @@ eDiscovery 케이스를 만들었으며, Mark 8 프로젝트에 대한 정보가
 
 2. **Microsoft Edge**에서 **https://compliance.microsoft.com** 으로 이동한 다음 **Joni Sherman**으로 규정 준수 센터에 로그인합니다.
 
-3. 규정 준수 센터의 왼쪽 탐색 창에서 ***... 모두 표시**를 선택하고 **eDiscovery**를 확장한 다음 **코어**를 선택합니다.
+3. 규정 준수 센터의 왼쪽 탐색 창에서 **... 모두 표시**를 선택하고 **eDiscovery**를 확장한 다음 **코어**를 선택합니다.
 
 4. **Mark 8 프로젝트 케이스** 앞의 체크박스를 선택하고 **케이스 열기**를 선택합니다.
 
@@ -92,11 +92,11 @@ eDiscovery 케이스를 만들었으며, Mark 8 프로젝트에 대한 정보가
 
 2. **Microsoft Edge**에서 **https://compliance.microsoft.com** 으로 이동한 다음 **Joni Sherman**으로 규정 준수 센터에 로그인합니다.
 
-3. 규정 준수 센터의 왼쪽 탐색 창에서 ***... 모두 표시**를 선택하고 **콘텐츠 검색**을 선택합니다.
+3. 규정 준수 센터의 왼쪽 탐색 창에서 **... 모두 표시** 를 선택하고 **콘텐츠 검색**을 선택합니다.
 
 4. **+ 새 검색**을 선택합니다.
 
-5. **키워드** 필드에 *From:phishingmail@outlook.com AND subject:"Password changed"*를 입력합니다.
+5. **키워드** 필드에 *From:phishingmail@outlook.com AND subject:"Password changed"* 를 입력합니다.
 
 6. **위치** 섹션에서 **특정 위치**를 선택하고 **수정...** 을 선택합니다.
 
