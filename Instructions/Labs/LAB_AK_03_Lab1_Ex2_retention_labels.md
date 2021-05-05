@@ -197,7 +197,7 @@ Outlook 폴더에 보존 레이블을 적용했습니다.
 
 1. 클라이언트 1 VM(LON-CL1)에 **lon-cl1\admin** 계정으로 로그인되어 있는 상태여야 합니다.
 
-2. **Microsoft Edge**에서 **https://www.office.com**으로 이동한 다음 **Joni Sherman**으로 Microsoft 365에 로그인합니다.
+2. **Microsoft Edge**에서 **https://www.office.com** 으로 이동한 다음 **Joni Sherman**으로 Microsoft 365에 로그인합니다.
 
 3. Microsoft O365 방문 페이지에서 점 9개로 표시된 왼쪽 위의 앱 시작 관리자를 선택하고 하위 메뉴에서 **SharePoint**를 선택합니다.
 
