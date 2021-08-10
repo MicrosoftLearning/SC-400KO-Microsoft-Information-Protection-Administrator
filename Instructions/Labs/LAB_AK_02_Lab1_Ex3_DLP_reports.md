@@ -1,4 +1,4 @@
-﻿# 연습 3 - DLP 보고서 관리
+﻿# 랩 2 연습 3 - DLP 보고서 관리
 
 Contoso Ltd.의 준수 관리자인 Joni Sherman이 회사 Microsoft 365 테넌트에서 데이터 손실 방지 기능을 구성하는 작업을 맡게 되었습니다. Contoso Ltd.는 미국의 운전학원입니다. 학원에 등록하는 중요한 고객 정보가 조직 외부로 유출되지 않도록 해야 합니다. 신임 준수 관리자가 DLP 보고서 검토를 지원할 예정이라고 합니다.
 
@@ -8,11 +8,11 @@ Contoso Ltd.의 준수 관리자인 Joni Sherman이 회사 Microsoft 365 테넌�
 
 1. **lon-cl1\admin** 계정으로 클라이언트 1 VM(LON-CL1)에 로그인합니다.
 
-2. **Microsoft Edge**에서 **https://protection.office.com** 으로 이동한 다음 **MOD 관리자**로 보안 및 준수 센터에 로그인합니다. 로그인 ID로는 admin@WWLxZZZZZZ.onmicrosoft.com을 사용합니다(여기서 ZZZZZZ는 랩 호스팅 공급자가 제공한 고유 테넌트 ID임).  관리자의 암호는 랩 호스팅 공급자가 제공합니다.
+2. **Microsoft Edge**에서 **https://protection.office.com**으로 이동한 다음 **MOD 관리자**로 보안 및 준수 센터에 로그인합니다. 로그인 ID로는 admin@WWLxZZZZZZ.onmicrosoft.com을 사용합니다(여기서 ZZZZZZ는 랩 호스팅 공급자가 제공한 고유 테넌트 ID임).  관리자의 암호는 랩 호스팅 공급자가 제공합니다.
 
 3. 왼쪽 탐색 창에서 **권한**을 선택하고 **보안 읽기 권한자** 역할을 선택합니다.
 
-4. 역할 개요 창에서 **구성원** 범주의 **편집**을 선택합니다.
+4. 역할 개요 창의 **구성원** 영역에서 **편집**을 선택합니다.
 
 5. **구성원 선택**을 선택하고 **+ 추가**를 선택합니다.
 
@@ -30,7 +30,7 @@ Contoso Ltd.의 준수 관리자인 Joni Sherman이 회사 Microsoft 365 테넌�
 
 1. **lon-cl2\admin** 계정으로 클라이언트 2 VM(LON-CL2)에 로그인합니다.
 
-2. **Microsoft Edge**에서 **https://compliance.microsoft.com** 으로 이동한 다음 **Megan Bowen**으로 규정 준수 센터에 로그인합니다. 로그인 ID로는 MeganB@WWLxZZZZZZ.onmicrosoft.com을 사용합니다(여기서 ZZZZZZ는 랩 호스팅 공급자가 제공한 고유 테넌트 ID임).  Megan의 암호는 랩 호스팅 공급자가 제공합니다.
+2. **Microsoft Edge**에서 **https://compliance.microsoft.com**으로 이동한 다음 **Megan Bowen**으로 규정 준수 센터에 로그인합니다. 로그인 ID로는 MeganB@WWLxZZZZZZ.onmicrosoft.com을 사용합니다(여기서 ZZZZZZ는 랩 호스팅 공급자가 제공한 고유 테넌트 ID임).  Megan의 암호는 랩 호스팅 공급자가 제공합니다.
 
 3. 왼쪽 탐색 창에서 **보고서**를 선택하고 보고서 대시보드 액세스 권한을 살펴봅니다.
 
