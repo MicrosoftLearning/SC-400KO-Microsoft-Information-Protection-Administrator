@@ -8,7 +8,7 @@
 
 1. **lon-cl1\admin** 계정으로 클라이언트 1 가상 머신(LON-CL1)에 로그인합니다.
 
-2. **Microsoft Edge**에서 **https://outlook.office.com/ecp**로 이동한 다음 **Joni Sherman**으로 Exchange 관리 센터에 로그인합니다.
+2. **Microsoft Edge**에서 **https://outlook.office.com/ecp** 로 이동한 다음 **Joni Sherman**으로 Exchange 관리 센터에 로그인합니다.
 
 3. **Exchange 관리 센터**의 왼쪽 탐색 창에서 **받는 사람**을 선택하고 **사서함**을 선택합니다.
 
@@ -33,7 +33,7 @@
 
 1. **lon-cl1\admin** 계정으로 클라이언트 1 VM(LON-CL1)에 로그인합니다.
 
-2. **Microsoft Edge**에서 **https://www.office.com**으로 이동한 다음 **Joni Sherman**으로 Microsoft 365에 로그인합니다.
+2. **Microsoft Edge**에서 **https://www.office.com** 으로 이동한 다음 **Joni Sherman**으로 Microsoft 365에 로그인합니다.
 
 3. Microsoft Office 365 방문 페이지에서 왼쪽 위 모서리의 앱 시작 관리자 아이콘(점 9개로 표시된 아이콘)을 선택하고 하위 메뉴에서 **SharePoint**를 선택합니다.
 

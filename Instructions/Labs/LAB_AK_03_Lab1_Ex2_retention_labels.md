@@ -10,7 +10,7 @@
 
 1. **lon-cl1\admin** 계정으로 클라이언트 1 VM(LON-CL1)에 로그인합니다.
 
-2. **Microsoft Edge**에서 **https://compliance.microsoft.com**으로 이동한 다음 **Joni Sherman**으로 규정 준수 센터에 로그인합니다.
+2. **Microsoft Edge**에서 **https://compliance.microsoft.com** 으로 이동한 다음 **Joni Sherman**으로 규정 준수 센터에 로그인합니다.
 
 3. **규정 준수 센터**의 왼쪽 탐색 창에서 **정책**을 선택하고 **데이터** 아래에서 **보존**을 선택합니다.
 
@@ -65,7 +65,7 @@
 
 1. 클라이언트 1 VM(LON-CL1)에는 **lon-cl1\admin** 계정으로, Microsoft 365에는 **Joni Sherman**으로 로그인되어 있는 상태여야 합니다. 
 
-2. **Microsoft Edge**에는 Office 365 규정 준수 센터 탭이 계속 열려 있어야 합니다. 해당 탭이 열려 있으면 탭을 선택하고 다음 단계를 진행합니다. 해당 탭을 닫았다면 새 탭에서 **https://compliance.microsoft.com**으로 이동합니다.
+2. **Microsoft Edge**에는 Office 365 규정 준수 센터 탭이 계속 열려 있어야 합니다. 해당 탭이 열려 있으면 탭을 선택하고 다음 단계를 진행합니다. 해당 탭을 닫았다면 새 탭에서 **https://compliance.microsoft.com** 으로 이동합니다.
 
 3. **규정 준수 센터**의 왼쪽 탐색 창에서 **정책**을 선택하고 **데이터** 아래에서 **보존**을 선택합니다.
 
@@ -104,7 +104,7 @@ VAT 환급 및 지원 문서용 보존 레이블을 게시했습니다.
 
 1. 클라이언트 1 VM(LON-CL1)에는 **lon-cl1\admin** 계정으로, Microsoft 365에는 **Joni Sherman**으로 로그인되어 있는 상태여야 합니다. 
 
-2. **Microsoft Edge**에는 Office 365 규정 준수 센터 탭이 계속 열려 있어야 합니다. 해당 탭이 열려 있으면 탭을 선택하고 다음 단계를 진행합니다. 해당 탭을 닫았다면 새 탭에서 **https://compliance.microsoft.com**으로 이동합니다.
+2. **Microsoft Edge**에는 Office 365 규정 준수 센터 탭이 계속 열려 있어야 합니다. 해당 탭이 열려 있으면 탭을 선택하고 다음 단계를 진행합니다. 해당 탭을 닫았다면 새 탭에서 **https://compliance.microsoft.com** 으로 이동합니다.
 
 3. **규정 준수 센터**의 왼쪽 탐색 창에서 **정책**을 선택하고 **데이터** 아래에서 **보존**을 선택합니다.
 
@@ -173,7 +173,7 @@ Outlook 전자 메일에 보존 레이블을 적용했습니다.
 
 2.  왼쪽 창에서 **받은 편지함**을 선택하고 마우스 오른쪽 단추를 클릭합니다.
 
-3.  **새 폴더...**를 선택하고 다음을 입력합니다. VAT 환급
+3.  **새 폴더...** 를 선택하고 다음을 입력합니다. VAT 환급
 
 4.  왼쪽 창에서 새로 만든 **VAT 환급** 폴더를 마우스 오른쪽 단추로 클릭합니다.
 
@@ -197,7 +197,7 @@ Outlook 폴더에 보존 레이블을 적용했습니다.
 
 1. 클라이언트 1 VM(LON-CL1)에 **lon-cl1\admin** 계정으로 로그인되어 있는 상태여야 합니다.
 
-2. **Microsoft Edge**에서 **https://www.office.com**으로 이동한 다음 **Joni Sherman**으로 Microsoft 365에 로그인합니다.
+2. **Microsoft Edge**에서 **https://www.office.com** 으로 이동한 다음 **Joni Sherman**으로 Microsoft 365에 로그인합니다.
 
 3. Microsoft O365 방문 페이지에서 왼쪽 위 모서리의 앱 시작 관리자 아이콘(점 9개로 표시된 아이콘)을 선택하고 하위 메뉴에서 **SharePoint**를 선택합니다.
 
@@ -227,7 +227,7 @@ SharePoint의 문서에 보존 레이블을 적용했습니다.
 
 1. 클라이언트 1 VM(LON-CL1)에는 **lon-cl1\admin** 계정으로, Microsoft 365에는 **Joni Sherman**으로 로그인되어 있는 상태여야 합니다. 
 
-2. **Microsoft Edge**에서 **https://www.office.com**으로 이동한 다음 **Joni Sherman**으로 Microsoft 365에 로그인합니다.
+2. **Microsoft Edge**에서 **https://www.office.com** 으로 이동한 다음 **Joni Sherman**으로 Microsoft 365에 로그인합니다.
 
 3. Microsoft O365 방문 페이지에서 왼쪽 위 모서리의 앱 시작 관리자 아이콘(점 9개로 표시된 아이콘)을 선택하고 하위 메뉴에서 **OneDrive**를 선택합니다.
 

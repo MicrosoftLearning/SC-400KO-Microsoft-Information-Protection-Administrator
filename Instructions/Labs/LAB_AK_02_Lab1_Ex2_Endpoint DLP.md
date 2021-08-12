@@ -51,14 +51,13 @@ Contoso Ltd.에 새로 입사한 준수 관리자인 Joni Sherman이 회사 Micr
 13. **회사 또는 학교 계정 설정** 대화 상자에서 **Azure Active Directory에 이 디바이스 가입** 링크를 선택하고 **Joni Sherman**으로 로그인합니다. 로그인 ID로는 JoniS@WWLxZZZZZZ.onmicrosoft.com을 사용합니다(여기서 ZZZZZZ는 랩 호스팅 공급자가 제공한 고유 테넌트 ID임).  Joni의 암호는 랩 호스팅 공급자가 제공합니다.
 
 14. **조직 확인** 대화 상자에서 테넌트 URL을 검토하고 **가입**을 선택합니다.  디바이스 가입이 실패하면 Azure AD 구성 가입 설정의 문제를 해결해야 합니다. 디바이스가 가입 가능하도록 설정하려면 다음 단계를 수행합니다.
-
-1. 새 브라우저 탭을 열고 Azure Portal https://portal.azure.com으로 이동합니다.
-1. **MOD 관리자** admin@WWLxZZZZZZ.onmicrosoft.com으로 로그인합니다.
-1. **Azure Active Directory 관리**를 선택합니다.
-1. **디바이스**를 선택합니다.
-1. **디바이스 설정**을 선택합니다.
-1. **사용자당 최대 디바이스 수**가 표시될 때까지 아래로 스크롤하여 값을 **20(권장)** 으로 변경합니다.
-1. 설정을 업데이트한 후 디바이스 연결을 다시 시도해 봅니다.
+        1. 새 브라우저 탭을 열고 Azure Portal https://portal.azure.com으로 이동합니다.
+        1. **MOD 관리자** admin@WWLxZZZZZZ.onmicrosoft.com으로 로그인합니다.
+        1. **Azure Active Directory 관리**를 선택합니다.
+        1. **디바이스**를 선택합니다.
+        1. **디바이스 설정**을 선택합니다.
+        1. **사용자당 최대 디바이스 수**가 표시될 때까지 아래로 스크롤하여 값을 **20(권장)** 으로 변경합니다.
+        1. 설정을 업데이트한 후 디바이스 연결을 다시 시도해 봅니다.
 
 15. 디바이스가 연결되면 **완료**를 선택합니다.
 
