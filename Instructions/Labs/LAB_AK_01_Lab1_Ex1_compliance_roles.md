@@ -12,7 +12,7 @@ Contoso Ltd.에 새로 입사한 준수 관리자인 Joni Sherman이 조직 규�
 
 3. **확인**을 선택하여 기본 브라우저 설정을 적용한 후 **로그인하지 않고 계속**을 선택합니다.
 
-4. **Microsoft Edge**에서 **https://admin.microsoft.com**으로 이동한 다음 **MOD 관리자**로 Microsoft 365 관리 센터에 로그인합니다. 로그인 ID로는 admin@WWLxZZZZZZ.onmicrosoft.com을 사용합니다(여기서 ZZZZZZ는 랩 호스팅 공급자가 제공한 고유 테넌트 ID임).  관리자의 암호는 랩 호스팅 공급자가 제공합니다.
+4. **Microsoft Edge**에서 **https://admin.microsoft.com** 으로 이동한 다음 **MOD 관리자**로 Microsoft 365 관리 센터에 로그인합니다. 로그인 ID로는 admin@WWLxZZZZZZ.onmicrosoft.com을 사용합니다(여기서 ZZZZZZ는 랩 호스팅 공급자가 제공한 고유 테넌트 ID임).  관리자의 암호는 랩 호스팅 공급자가 제공합니다.
 
 5. **로그인 상태를 유지하시겠습니까?** 대화 상자에서 **이 메시지를 다시 표시 안 함** 체크박스를 선택하고 **아니요**를 선택합니다.
 
@@ -46,7 +46,7 @@ Contoso Ltd.에 새로 입사한 준수 관리자인 Joni Sherman이 조직 규�
 
 1. 클라이언트 1 VM(LON-CL1)에 **lon-cl1\admin** 계정으로 로그인되어 있는 상태여야 합니다. 
 
-2. **Microsoft Edge**에서 **https://compliance.microsoft.com**으로 이동합니다.
+2. **Microsoft Edge**에서 **https://compliance.microsoft.com** 으로 이동합니다.
 
 3. **계정 선택** 창이 표시되면 **다른 계정 사용**을 선택합니다.
 
