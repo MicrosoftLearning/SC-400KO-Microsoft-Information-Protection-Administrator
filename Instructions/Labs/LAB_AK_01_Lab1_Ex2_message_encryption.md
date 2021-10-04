@@ -42,9 +42,7 @@ Joni Sherman이 파일럿 팀과 함께 먼저 구성 및 테스트해야 하는
 
 14. 다음 cmdlet을 사용하여 다른 파일럿 사용자인 **Megan Bowen**을 대상으로 Office 365 메시지 암호화에 사용되는 Azure RMS 템플릿을 테스트하고 **Enter** 키를 누릅니다.
 
-    `Test-IRMConfiguration -Sender MeganB@contoso.com -Recipient MeganB@contoso.com`
-
-    ![IRM 유효성 검사 스크립트 결과. ](../Media/IRMvalidationl.png)
+    `Test-IRMConfiguration -Sender MeganB@contoso.com`
 
 15. 모든 테스트에서 상태가 PASS로 표시되고 오류가 발생하지 않는지 확인합니다.
 
