@@ -1,4 +1,4 @@
-﻿# 랩 3 연습 4 - 복구에 eDiscovery 사용
+# 랩 3 연습 4 - 복구에 eDiscovery 사용
 
 이 연습에서는 Contoso Ltd.의 준수 관리자인 Joni Sherman으로 작업을 수행하게 됩니다. Joni가 소속된 미국 텍사스 주 소재의 기업인 Contoso Ltd.에서는 현지 법률 준수를 위해 보존 정책을 구현하려고 합니다. Uniform Preservation of Private Business Records Act에 따라 3년이 지나면 법에 저촉되는 사항 없이 레코드를 폐기할 수 있습니다(일부 예외는 있음). 이 법률 준수를 위해 조직에서는 조직의 모든 항목을 3년 동안 보존하는 보존 계획을 작성했습니다.
 
