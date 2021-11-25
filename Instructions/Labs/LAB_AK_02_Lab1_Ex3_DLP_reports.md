@@ -8,7 +8,7 @@ Contoso Ltd.의 준수 관리자인 Joni Sherman이 회사 Microsoft 365 테넌�
 
 1. **lon-cl1\admin** 계정으로 클라이언트 1 VM(LON-CL1)에 로그인합니다.
 
-2. **Microsoft Edge**에서 **https://compliance.microsoft.com**으로 이동한 다음 **MOD 관리자**로 Microsoft 365 규정 준수 포털에 로그인합니다. 로그인 ID로는 admin@WWLxZZZZZZ.onmicrosoft.com을 사용합니다(여기서 ZZZZZZ는 랩 호스팅 공급자가 제공한 고유 테넌트 ID임).  관리자의 암호는 랩 호스팅 공급자가 제공합니다.
+2. **Microsoft Edge**에서 **https://compliance.microsoft.com** 으로 이동한 다음 **MOD 관리자**로 Microsoft 365 규정 준수 포털에 로그인합니다. 로그인 ID로는 admin@WWLxZZZZZZ.onmicrosoft.com을 사용합니다(여기서 ZZZZZZ는 랩 호스팅 공급자가 제공한 고유 테넌트 ID임).  관리자의 암호는 랩 호스팅 공급자가 제공합니다.
 
 3. 왼쪽 탐색 창에서 **권한**을 선택하고 **규정 준수 센터** 아래에서 **역할**을 선택합니다.  **보안 읽기 권한자** 옆에 있는 체크박스를 선택합니다.
 
@@ -30,7 +30,7 @@ Microsoft 365 규정 준수 포털에서 신임 준수 관리자에게 DLP 보�
 
 1. **lon-cl2\admin** 계정으로 클라이언트 2 VM(LON-CL2)에 로그인합니다.
 
-2. **Microsoft Edge**에서 **https://compliance.microsoft.com**으로 이동한 다음 **Megan Bowen**으로 Microsoft 365 규정 준수 포털에 로그인합니다. 로그인 ID로는 MeganB@WWLxZZZZZZ.onmicrosoft.com을 사용합니다(여기서 ZZZZZZ는 랩 호스팅 공급자가 제공한 고유 테넌트 ID임).  Megan의 암호는 랩 호스팅 공급자가 제공합니다.
+2. **Microsoft Edge**에서 **https://compliance.microsoft.com** 으로 이동한 다음 **Megan Bowen**으로 Microsoft 365 규정 준수 포털에 로그인합니다. 로그인 ID로는 MeganB@WWLxZZZZZZ.onmicrosoft.com을 사용합니다(여기서 ZZZZZZ는 랩 호스팅 공급자가 제공한 고유 테넌트 ID임).  Megan의 암호는 랩 호스팅 공급자가 제공합니다.
 
 3. 왼쪽 탐색 창에서 **보고서**를 선택하고 보고서 대시보드 액세스 권한을 살펴봅니다.
 

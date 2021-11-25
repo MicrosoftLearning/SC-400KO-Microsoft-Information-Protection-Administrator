@@ -65,7 +65,7 @@ Teams 및 SharePoint 사이트에서 민감도 레이블이 지원되도록 설�
 
 1. 클라이언트 1 VM(LON-CL1)에 **lon-cl1\admin** 계정으로 로그인되어 있는 상태여야 합니다.
 
-2. **Microsoft Edge**에서 **https://compliance.microsoft.com**으로 이동한 다음 **Joni Sherman**으로 Microsoft 365 규정 준수 포털에 로그인합니다. 로그인 ID로는 JoniS@WWLxZZZZZZ.onmicrosoft.com을 사용합니다(여기서 ZZZZZZ는 랩 호스팅 공급자가 제공한 고유 테넌트 ID임).  Joni의 암호는 랩 호스팅 공급자가 제공합니다.
+2. **Microsoft Edge**에서 **https://compliance.microsoft.com** 으로 이동한 다음 **Joni Sherman**으로 Microsoft 365 규정 준수 포털에 로그인합니다. 로그인 ID로는 JoniS@WWLxZZZZZZ.onmicrosoft.com을 사용합니다(여기서 ZZZZZZ는 랩 호스팅 공급자가 제공한 고유 테넌트 ID임).  Joni의 암호는 랩 호스팅 공급자가 제공합니다.
 
 3. **Microsoft 365 규정 준수** 포털의 왼쪽 탐색 창에서 **정보 보호**를 선택합니다.  
 
@@ -261,7 +261,7 @@ Teams 및 SharePoint 사이트에서 민감도 레이블이 지원되도록 설�
 
 1. 클라이언트 1 VM(LON-CL1)에 **lon-cl1\admin** 계정으로 로그인되어 있는 상태여야 합니다.
 
-2. **Microsoft Edge**에서 ** https://compliance.microsoft.com**으로 이동한 다음 **Joni Sherman**으로 Microsoft 365 규정 준수 포털에 로그인합니다.
+2. **Microsoft Edge**에서 ** https://compliance.microsoft.com** 으로 이동한 다음 **Joni Sherman**으로 Microsoft 365 규정 준수 포털에 로그인합니다.
 
 3. **Microsoft 365 규정 준수** 포털의 왼쪽 탐색 창에서 **정보 보호**를 선택합니다.  
 

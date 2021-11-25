@@ -8,7 +8,7 @@ Contoso Ltd.에서는 이전에 직원들이 티켓 솔루션에서 지원 티�
 
 1. 클라이언트 1 VM(LON-CL1)에 **lon-cl1\admin** 계정으로 로그인되어 있는 상태여야 합니다.
 
-2. **Microsoft Edge**에서 **https://compliance.microsoft.com**으로 이동한 다음 JoniS@WWLxZZZZZZ.onmicrosoft.com으로 Microsoft 365 규정 준수 포털에 로그인합니다. 로그인 ID로는 JoniS@WWLxZZZZZZ.onmicrosoft.com을 사용합니다(여기서 ZZZZZZ는 랩 호스팅 공급자가 제공한 고유 테넌트 ID임).  Joni의 암호는 랩 호스팅 공급자가 제공합니다.
+2. **Microsoft Edge**에서 **https://compliance.microsoft.com** 으로 이동한 다음 JoniS@WWLxZZZZZZ.onmicrosoft.com으로 Microsoft 365 규정 준수 포털에 로그인합니다. 로그인 ID로는 JoniS@WWLxZZZZZZ.onmicrosoft.com을 사용합니다(여기서 ZZZZZZ는 랩 호스팅 공급자가 제공한 고유 테넌트 ID임).  Joni의 암호는 랩 호스팅 공급자가 제공합니다.
 
 3. 왼쪽 창에서 **데이터 분류**를 선택합니다.
 
