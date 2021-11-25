@@ -1,4 +1,4 @@
-﻿# 랩 2 연습 1 - DLP 정책 관리
+# 랩 2 연습 1 - DLP 정책 관리
 
 Contoso Ltd.에 새로 입사한 준수 관리자인 Joni Sherman이 회사 Microsoft 365 테넌트에서 데이터 손실 방지 기능을 구성하는 작업을 맡게 되었습니다. Contoso Ltd.는 미국의 운전 학원이며, 학원에 등록하는 중요한 고객 정보가 조직 외부로 유출되지 않도록 해야 합니다.
 
@@ -8,9 +8,9 @@ Contoso Ltd.에 새로 입사한 준수 관리자인 Joni Sherman이 회사 Micr
 
 1. **lon-cl1\admin** 계정으로 클라이언트 1 VM(LON-CL1)에 로그인합니다.
 
-2. **Microsoft Edge**에서 **https://compliance.microsoft.com** 으로 이동한 다음 **Joni Sherman**으로 규정 준수 센터에 로그인합니다. 로그인 ID로는 JoniS@WWLxZZZZZZ.onmicrosoft.com을 사용합니다(여기서 ZZZZZZ는 랩 호스팅 공급자가 제공한 고유 테넌트 ID임).  Joni의 암호는 랩 호스팅 공급자가 제공합니다.
+2. **Microsoft Edge**에서 **https://compliance.microsoft.com** 으로 이동한 다음 **Joni Sherman**으로 Microsoft 365 규정 준수 포털에 로그인합니다. 로그인 ID로는 JoniS@WWLxZZZZZZ.onmicrosoft.com을 사용합니다(여기서 ZZZZZZ는 랩 호스팅 공급자가 제공한 고유 테넌트 ID임).  Joni의 암호는 랩 호스팅 공급자가 제공합니다.
 
-3. **규정 준수 센터**의 왼쪽 탐색 창에서 **정책**을 선택하고 **데이터** 아래에서 **데이터 손실 방지**를 선택합니다.
+3. **Microsoft 365 규정 준수** 포털의 왼쪽 탐색 창에서 **정책**을 선택하고 **데이터** 아래에서 **데이터 손실 방지**를 선택합니다.
 
 4. **데이터 손실 방지** 창에서 **정책** 탭을 선택하고 **+정책 만들기**를 선택하여 새 데이터 손실 방지 정책 만들기 마법사를 시작합니다.
 
@@ -66,7 +66,7 @@ Contoso Ltd.에 새로 입사한 준수 관리자인 Joni Sherman이 회사 Micr
 
 1. 클라이언트 1 VM(LON-CL1)에는 **lon-cl1\admin** 계정으로, Microsoft 365에는 **Joni Sherman**으로 로그인되어 있는 상태여야 합니다. 
 
-2. **Microsoft Edge**에는 Office 365 규정 준수 센터 탭이 계속 열려 있어야 합니다. 해당 탭이 열려 있으면 탭을 선택하고 다음 단계를 진행합니다. 해당 탭을 닫았다면 새 탭에서 **https://compliance.microsoft.com** 으로 이동합니다.
+2. 그리고 **Microsoft Edge**에는 Microsoft 365 규정 준수 포털 탭이 계속 열려 있어야 합니다. 해당 탭이 열려 있으면 탭을 선택하고 다음 단계를 진행합니다. 해당 탭을 닫았다면 새 탭에서 **https://compliance.microsoft.com** 으로 이동합니다.
 
 3. **규정 준수 센터**의 왼쪽 탐색 창에서 **정책**을 선택하고 **데이터** 아래에서 **데이터 손실 방지**를 선택합니다.
 
@@ -130,9 +130,9 @@ DLP 정책을 활성화했습니다. 이제 이 정책은 신용 카드 정보 �
 
 1. 클라이언트 1 VM(LON-CL1)에는 **lon-cl1\admin** 계정으로, Microsoft 365에는 **Joni Sherman**으로 로그인되어 있는 상태여야 합니다. 
 
-2. **Microsoft Edge**에는 Office 365 규정 준수 센터 탭이 계속 열려 있어야 합니다. 해당 탭이 열려 있으면 탭을 선택하고 다음 단계를 진행합니다. 해당 탭을 닫았다면 새 탭에서 **https://compliance.microsoft.com** 으로 이동합니다.
+2. 그리고 **Microsoft Edge**에는 Microsoft 365 규정 준수 포털 탭이 계속 열려 있어야 합니다. 해당 탭이 열려 있으면 탭을 선택하고 다음 단계를 진행합니다. 해당 탭을 닫았다면 새 탭에서 **https://compliance.microsoft.com** 으로 이동합니다.
 
-3. **규정 준수 센터**의 왼쪽 탐색 창에서 **정책**을 선택하고 **데이터** 아래에서 **데이터 손실 방지**를 선택합니다.
+3. **Microsoft 365 규정 준수** 포털의 왼쪽 탐색 창에서 **정책**을 선택하고 **데이터** 아래에서 **데이터 손실 방지**를 선택합니다.
 
 4. **데이터 손실 방지** 창에서 **정책** 탭을 선택하고 **운전 면허 DLP 정책** 옆의 세로 점 3개를 선택하여 **작업** 선택 항목을 엽니다.
 

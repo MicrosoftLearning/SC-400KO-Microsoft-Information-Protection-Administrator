@@ -1,4 +1,4 @@
-﻿# 랩 3 연습 1 - 보존 정책 구성
+# 랩 3 연습 1 - 보존 정책 구성
 
 이 연습에서는 Contoso Ltd.의 시스템 관리자인 Joni Sherman으로 작업을 수행하게 됩니다. Joni가 소속된 미국 텍사스 주 소재의 기업인 Contoso Ltd.에서는 3년이 지나면 법에 저촉되는 사항 없이 레코드를 삭제할 수 있음이 명시된 주법 준수를 위해 보존 정책을 구현하려고 합니다. 
 
@@ -11,9 +11,9 @@
 
 1. **lon-cl1\admin** 계정으로 클라이언트 1 VM(LON-CL1)에 로그인합니다.
 
-2. **Microsoft Edge**에서 **https://compliance.microsoft.com** 으로 이동한 다음 **Joni Sherman**으로 규정 준수 센터에 로그인합니다. 로그인 ID로는 JoniS@WWLxZZZZZZ.onmicrosoft.com을 사용합니다(여기서 ZZZZZZ는 랩 호스팅 공급자가 제공한 고유 테넌트 ID임).  Joni의 암호는 랩 호스팅 공급자가 제공합니다.
+2. **Microsoft Edge**에서 **https://compliance.microsoft.com** 으로 이동한 다음 **Joni Sherman**으로 Microsoft 365 규정 준수 포털에 로그인합니다. 로그인 ID로는 JoniS@WWLxZZZZZZ.onmicrosoft.com을 사용합니다(여기서 ZZZZZZ는 랩 호스팅 공급자가 제공한 고유 테넌트 ID임).  Joni의 암호는 랩 호스팅 공급자가 제공합니다.
 
-3. **규정 준수 센터**의 왼쪽 탐색 창에서 **정책**을 선택하고 **데이터** 아래에서 **보존**을 선택합니다.
+3. **Microsoft 365 규정 준수** 포털의 왼쪽 탐색 창에서 **정책**을 선택하고 **데이터** 아래에서 **보존**을 선택합니다.
 
 4. **정보 거버넌스** 페이지의 **보존** 탭에서 **+ 새 보존 정책**을 선택합니다.
 
@@ -45,9 +45,9 @@ Exchange 이메일, Microsoft 365 그룹, OneDrive 및 SharePoint 사이트용 �
 
 1. 클라이언트 1 VM(LON-CL1)에는 **lon-cl1\admin** 계정으로, Microsoft 365에는 **Joni Sherman**으로 로그인되어 있는 상태여야 합니다. 
 
-2. **Microsoft Edge**에는 Office 365 규정 준수 센터 탭이 계속 열려 있어야 합니다. 해당 탭이 열려 있으면 탭을 선택하고 다음 단계를 진행합니다. 해당 탭을 닫았다면 새 탭에서 **https://compliance.microsoft.com** 으로 이동합니다.
+2. 그리고 **Microsoft Edge**에는 Microsoft 365 규정 준수 포털 탭이 계속 열려 있어야 합니다. 해당 탭이 열려 있으면 탭을 선택하고 다음 단계를 진행합니다. 해당 탭을 닫았다면 새 탭에서 **https://compliance.microsoft.com** 으로 이동합니다.
 
-3. **규정 준수 센터**의 왼쪽 탐색 창에서 **정책**을 선택하고 **데이터** 아래에서 **보존**을 선택합니다.
+3. **Microsoft 365 규정 준수** 포털의 왼쪽 탐색 창에서 **정책**을 선택하고 **데이터** 아래에서 **보존**을 선택합니다.
 
 4. **정보 거버넌스** 페이지의 **보존 정책** 탭에서 **+ 새 보존 정책**을 선택합니다.
 
