@@ -8,11 +8,11 @@
 
 1. 클라이언트 1 VM(LON-CL1)에는 **lon-cl1\admin** 계정으로, Microsoft 365에는 **Joni Sherman** JoniS@WWLxZZZZZZ.onmicrosoft.com(여기서 ZZZZZZ는 랩 호스팅 공급자가 제공한 고유 테넌트 ID임)으로 로그인되어 있는 상태여야 합니다.  Joni의 암호는 랩 호스팅 공급자가 제공합니다. 
 
-2. **Microsoft Edge**에서 ** https://compliance.microsoft.com** 으로 이동한 다음 **Joni Sherman**으로 Microsoft 365 규정 준수 포털에 로그인합니다.
+2. **Microsoft Edge**에서 **https://compliance.microsoft.com** 으로 이동한 다음 **Joni Sherman**으로 Microsoft 365 규정 준수 포털에 로그인합니다.
 
 3. 포털의 왼쪽 탐색 창에서 **eDiscovery**를 확장하고 **코어**를 선택합니다.
 
-4. **코어 eDiscovery** 페이지에서 **+** 를 선택하요 케이스를 만듭니다.
+4. **코어 eDiscovery** 페이지에서 **+ 케이스 만들기**를 선택합니다.
 
 5. **케이스 이름**에는 *Mark 8 프로젝트 케이스*를, **케이스 설명**에는 *Mark 8 프로젝트 관련 Megan Bowen의 메일을 평가하는 데 사용할 케이스입니다.* 를 입력하고 **저장**을 선택합니다.
 
@@ -22,9 +22,9 @@
 
 8. **+ 새 검색**을 선택하여 새 검색을 시작합니다.
 
-9. **이름 및 설명** 섹션에서 *Mark 8 프로젝트*를 입력하고 **다음**을 선택합니다.
+9. **이름 및 설명** 페이지에서 *Mark 8 프로젝트*를 입력하고 **다음**을 선택합니다.
 
-10. **위치** 섹션에서 **Exchange 사서함**을 선택하고 **사용자, 그룹 또는 팀 선택**을 선택합니다.
+10. **위치** 페이지에서 **Exchange 사서함**을 **켜짐**으로 설정하고 **사용자, 그룹 또는 팀 선택**을 선택합니다.
 
 11. **Exchange 사서함** 대화 상자에서 *Megan Bowen*을 선택하고 Megan의 사서함을 선택합니다.  **완료**를 선택합니다.
 
@@ -44,7 +44,7 @@ eDiscovery 케이스를 만들었으며, Mark 8 프로젝트에 대한 정보가
 
 1. **lon-cl1\admin** 계정으로 클라이언트 1 VM(LON-CL1)에 로그인합니다.
 
-2. **Microsoft Edge**에서 ** https://compliance.microsoft.com** 으로 이동한 다음 **MOD 관리자**로 Microsoft 365 규정 준수 포털에 로그인합니다.  Joni Sherman으로 로그아웃해야 할 수도 있습니다.
+2. **Microsoft Edge**에서 **https://compliance.microsoft.com** 으로 이동한 다음 **MOD 관리자**로 Microsoft 365 규정 준수 포털에 로그인합니다.  Joni Sherman으로 로그아웃해야 할 수도 있습니다.
 
 3. 왼쪽 탐색 창에서 **권한**을 선택하고 **규정 준수 센터** 아래에서 **역할**을 선택합니다.  **레코드 관리** 역할을 선택합니다.
 
@@ -72,9 +72,9 @@ eDiscovery 케이스를 만들었으며, Mark 8 프로젝트에 대한 정보가
 
 3. **Microsoft 365 규정 준수** 포털의 왼쪽 탐색 창에서 **eDiscovery**를 확장하고 **코어**를 선택합니다.
 
-4. **Mark 8 프로젝트 케이스** 앞의 체크박스를 선택하고 두 번 클릭하여 케이스 홈을 엽니다.
+4. **Mark 8 프로젝트 케이스**를 클릭하여 케이스를 엽니다.
 
-5. **검색** 탭을 선택하고 **Mark 8 프로젝트** 검색을 두 번 클릭합니다.
+5. **검색** 탭을 선택하고 **Mark 8 프로젝트**를 선택합니다.
 
 **힌트:** eDiscovery 검색에 데이터가 없는 경우 검색 매개 변수를 고려해 보세요.  이전 랩에서 Megan이 *Mark 8* 프로젝트에 관한 전자 메일을 보내도록 했나요?  그렇게 하지 않았다면 검색의 키워드를 Megan의 사서함에 있는 기존 전자 메일에 나오는 용어로 변경해 보세요.  가령 Megan의 기존 전자 메일에 "planner"라는 용어가 자주 등장하면 이 용어를 키워드로 사용합니다.  내보내기가 처리되려면 검색에 데이터가 있어야 합니다.
 
@@ -100,7 +100,7 @@ eDiscovery 케이스를 만들었으며, Mark 8 프로젝트에 대한 정보가
 
 1. 클라이언트 1 VM(LON-CL1)에 **lon-cl1\admin** 계정으로 로그인되어 있는 상태여야 합니다.
 
-2. **Microsoft Edge**에서 **https://compliance.microsoft.com** 으로 이동한 다음 **Joni Sherman**으로 규정 준수 센터에 로그인합니다.
+2. **Microsoft Edge**에서 **https://compliance.microsoft.com** 으로 이동한 다음 **Joni Sherman**으로 Microsoft 365 규정 준수 포털에 로그인합니다.
 
 3. 규정 준수 센터의 왼쪽 탐색 창에서 **콘텐츠 검색**을 선택합니다.
 
