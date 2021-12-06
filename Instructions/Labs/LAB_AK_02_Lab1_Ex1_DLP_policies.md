@@ -42,7 +42,7 @@ Contoso Ltd.에 새로 입사한 준수 관리자인 Joni Sherman이 회사 Micr
 
 18. **규칙 만들기** 페이지의 **사용자 알림** 섹션에서 스위치를 선택하여 **켜기** 위치로 이동합니다.
 
-19. **규칙 만들기** 페이지 **사용자 재정의** 섹션의 **M365 서비스에서 재정의 허용** 아래에서 **M365 서비스에서 재정의 허용** 체크박스를 선택합니다.** Exchange, Sharepoint, OneDrive 및 Teams에서 사용자가 정책 제한을 재정의하도록 허용**
+19. **규칙 만들기** 페이지 **사용자 재정의** 섹션의 **M365 서비스에서 재정의 허용** 아래에서 **M365 서비스에서 재정의 허용 체크박스를 선택합니다. Exchange, Sharepoint, OneDrive 및 Teams에서 사용자가 정책 제한을 재정의하도록 허용**
 
 20. **재정의하려면 비즈니스 사유 필요** 상자를 선택합니다.
 
@@ -112,7 +112,7 @@ Contoso Ltd.에 새로 입사한 준수 관리자인 Joni Sherman이 회사 Micr
 
 1. 클라이언트 1 VM(LON-CL1)에는 **lon-cl1\admin** 계정으로, Microsoft 365에는 **Joni Sherman**으로 로그인되어 있는 상태여야 합니다. 
 
-2. 그리고 **Microsoft Edge**에는 Microsoft 365 규정 준수 센터 탭이 계속 열려 있어야 합니다. 해당 탭이 열려 있으면 탭을 선택하고 다음 단계를 진행합니다. 해당 탭을 닫았다면 새 탭에서 **https://compliance.microsoft.com**으로 이동합니다.
+2. 그리고 **Microsoft Edge**에는 Microsoft 365 규정 준수 센터 탭이 계속 열려 있어야 합니다. 해당 탭이 열려 있으면 탭을 선택하고 다음 단계를 진행합니다. 해당 탭을 닫았다면 새 탭에서 **https://compliance.microsoft.com** 으로 이동합니다.
 
 3. **Microsoft 365 규정 준수** 포털의 왼쪽 탐색 창에서 **정책**을 선택하고 **데이터** 아래에서 **데이터 손실 방지**를 선택합니다.
 
@@ -150,7 +150,7 @@ Microsoft Defender for Cloud Apps에서 파일 정책을 사용하여 OneDrive �
 
 1. 클라이언트 1 VM(LON-CL1)에 **lon-cl1\admin** 계정으로 로그인되어 있는 상태여야 합니다.
 
-2. **Microsoft Edge**에서 **https://portal.cloudappsecurity.com**으로 이동한 다음 **MOD 관리자**로 Microsoft Defendger for Cloud Apps 포털에 로그인합니다. 로그인 ID로는 admin@WWLxZZZZZZ.onmicrosoft.com을 사용합니다(여기서 ZZZZZZ는 랩 호스팅 공급자가 제공한 고유 테넌트 ID임).  관리자의 암호는 랩 호스팅 공급자가 제공합니다.
+2. **Microsoft Edge**에서 **https://portal.cloudappsecurity.com** 으로 이동한 다음 **MOD 관리자**로 Microsoft Defendger for Cloud Apps 포털에 로그인합니다. 로그인 ID로는 admin@WWLxZZZZZZ.onmicrosoft.com을 사용합니다(여기서 ZZZZZZ는 랩 호스팅 공급자가 제공한 고유 테넌트 ID임).  관리자의 암호는 랩 호스팅 공급자가 제공합니다.
 
 3. 오른쪽 위의 프로필 정보 옆에 있는 톱니 바퀴 모양 **설정** 아이콘을 선택하고 드롭다운 메뉴에서 **설정**을 선택합니다.
 
@@ -166,7 +166,7 @@ Microsoft Defender for Cloud Apps에서 파일 모니터링을 사용하도록 �
 
 1. 클라이언트 1 VM(LON-CL1)에는 **lon-cl1\admin** 계정으로, Microsoft 365에는 **Joni Sherman** JoniS@WWLxZZZZZZ.onmicrosoft.com(여기서 ZZZZZZ는 랩 호스팅 공급자가 제공한 고유 테넌트 ID임)으로 로그인되어 있는 상태여야 합니다.  Joni의 암호는 랩 호스팅 공급자가 제공합니다.
 
-2. 그리고 **Microsoft Edge**에는 Microsoft Defender for Cloud Apps 포털 탭이 계속 열려 있어야 합니다. 해당 탭이 열려 있으면 탭을 선택하고 다음 단계를 진행합니다. 해당 탭을 닫았다면 새 탭에서 **https://portal.cloudappsecurity.com**으로 이동합니다.
+2. 그리고 **Microsoft Edge**에는 Microsoft Defender for Cloud Apps 포털 탭이 계속 열려 있어야 합니다. 해당 탭이 열려 있으면 탭을 선택하고 다음 단계를 진행합니다. 해당 탭을 닫았다면 새 탭에서 **https://portal.cloudappsecurity.com** 으로 이동합니다.
 
 3. **Microsoft Defender for Cloud Apps** 포털의 왼쪽 탐색 창에서 **컨트롤**을 확장하고 **정책**을 선택합니다.
 

@@ -8,7 +8,7 @@
 
 1. 클라이언트 1 VM(LON-CL1)에는 **lon-cl1\admin** 계정으로, Microsoft 365에는 **Joni Sherman** JoniS@WWLxZZZZZZ.onmicrosoft.com(여기서 ZZZZZZ는 랩 호스팅 공급자가 제공한 고유 테넌트 ID임)으로 로그인되어 있는 상태여야 합니다.  Joni의 암호는 랩 호스팅 공급자가 제공합니다. 
 
-2. **Microsoft Edge**에서 ** https://compliance.microsoft.com** 으로 이동한 다음 **Joni Sherman**으로 Microsoft 365 규정 준수 포털에 로그인합니다.
+2. **Microsoft Edge**에서 **https://compliance.microsoft.com** 으로 이동한 다음 **Joni Sherman**으로 Microsoft 365 규정 준수 포털에 로그인합니다.
 
 3. 포털의 왼쪽 탐색 창에서 **eDiscovery**를 확장하고 **코어**를 선택합니다.
 
@@ -44,7 +44,7 @@ eDiscovery 케이스를 만들었으며, Mark 8 프로젝트에 대한 정보가
 
 1. **lon-cl1\admin** 계정으로 클라이언트 1 VM(LON-CL1)에 로그인합니다.
 
-2. **Microsoft Edge**에서 ** https://compliance.microsoft.com** 으로 이동한 다음 **MOD 관리자**로 Microsoft 365 규정 준수 포털에 로그인합니다.  Joni Sherman으로 로그아웃해야 할 수도 있습니다.
+2. **Microsoft Edge**에서 **https://compliance.microsoft.com** 으로 이동한 다음 **MOD 관리자**로 Microsoft 365 규정 준수 포털에 로그인합니다.  Joni Sherman으로 로그아웃해야 할 수도 있습니다.
 
 3. 왼쪽 탐색 창에서 **권한**을 선택하고 **규정 준수 센터** 아래에서 **역할**을 선택합니다.  **레코드 관리** 역할을 선택합니다.
 
@@ -100,7 +100,7 @@ eDiscovery 케이스를 만들었으며, Mark 8 프로젝트에 대한 정보가
 
 1. 클라이언트 1 VM(LON-CL1)에 **lon-cl1\admin** 계정으로 로그인되어 있는 상태여야 합니다.
 
-2. **Microsoft Edge**에서 ** https://compliance.microsoft.com **으로 이동한 다음 **Joni Sherman**으로 Microsoft 365 규정 준수 포털에 로그인합니다.
+2. **Microsoft Edge**에서 **https://compliance.microsoft.com** 으로 이동한 다음 **Joni Sherman**으로 Microsoft 365 규정 준수 포털에 로그인합니다.
 
 3. 규정 준수 센터의 왼쪽 탐색 창에서 **콘텐츠 검색**을 선택합니다.
 
