@@ -42,7 +42,9 @@ Joni Sherman이 파일럿 팀과 함께 먼저 구성 및 테스트해야 하는
 
 14. 다음 cmdlet을 사용하여 다른 파일럿 사용자인 **Megan Bowen**을 대상으로 Office 365 메시지 암호화에 사용되는 Azure RMS 템플릿을 테스트하고 **Enter** 키를 누릅니다.
 
-    `Test-IRMConfiguration -Sender MeganB@contoso.com`
+    `Test-IRMConfiguration -Sender MeganB@contoso.com -Recipient MeganB@contoso.com`
+
+    ![IRM 유효성 검사 스크립트 결과. ](../Media/IRMvalidationl.png)
 
 15. 모든 테스트에서 상태가 PASS로 표시되고 오류가 발생하지 않는지 확인합니다.
 
@@ -102,7 +104,7 @@ Office 365 메시지 암호화에서 Google, Facebook 등의 외부 ID 공급자
 
 11. **보내기**를 선택하여 메시지를 보냅니다.
 
-12. 개인 전자 메일 계정에 로그인하여 Lynne Robbins의 메시지를 엽니다.  Microsoft 계정(예: @outlook.com)으로 해당 전자 메일을 보냈다면 암호화가 자동으로 처리되므로 메시지를 자동으로 확인할 수 있습니다.  반면 다른 전자 메일 서비스(예: @google.com)으로 해당 전자 메일을 보냈다면 다음 단계를 수행하여 암호를 처리해야 메시지를 읽을 수 있습니다.
+12. 개인 전자 메일 계정에 로그인하여 Lynne Robbins의 메시지를 엽니다.  Microsoft 계정(예: @outlook.com)으로 해당 전자 메일을 보냈다면 암호화가 자동으로 처리되므로 메시지를 자동으로 확인할 수 있습니다.  반면 다른 전자 메일 서비스(예: @google.com)로 해당 전자 메일을 보냈다면 다음 단계를 수행하여 암호를 처리해야 메시지를 읽을 수 있습니다.
 
 13. **메시지 읽기**를 선택합니다.
 
@@ -152,7 +154,10 @@ Office 365 메시지 암호화에서 Google, Facebook 등의 외부 ID 공급자
 
     `New-TransportRule -Name "Encrypt all mails from Finance team" -FromScope InOrganization -FromMemberOf "Finance Team" -ApplyRightsProtectionCustomizationTemplate "Finance Department" -ApplyRightsProtectionTemplate Encrypt`
 
-11. PowerShell은 열어 둡니다.
+11. 다음 cmdlet을 입력하여 변경 내용을 확인합니다.
+    `Get-OMEConfiguration -Identity "Finance Department" | Format-List`
+    
+12. PowerShell은 열어 둡니다.
 
 경리부 직원이 외부 받는 사람에게 메시지를 보내면 사용자 지정 OME 템플릿을 자동 적용하는 새 전송 규칙을 만들었습니다.
 
