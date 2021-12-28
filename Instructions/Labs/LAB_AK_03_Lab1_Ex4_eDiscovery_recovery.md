@@ -1,4 +1,4 @@
-# 랩 3 연습 4 - 복구에 eDiscovery 사용
+﻿# 랩 3 - 연습 4 - 복구에 eDiscovery 사용
 
 이 연습에서는 Contoso Ltd.의 준수 관리자인 Joni Sherman으로 작업을 수행하게 됩니다. Joni가 소속된 미국 텍사스 주 소재의 기업인 Contoso Ltd.에서는 현지 법률 준수를 위해 보존 정책을 구현하려고 합니다. Uniform Preservation of Private Business Records Act에 따라 3년이 지나면 법에 저촉되는 사항 없이 레코드를 폐기할 수 있습니다(일부 예외는 있음). 이 법률 준수를 위해 조직에서는 조직의 모든 항목을 3년 동안 보존하는 보존 계획을 작성했습니다.
 
@@ -112,7 +112,7 @@ eDiscovery 케이스를 만들었으며, Mark 8 프로젝트에 대한 정보가
 
 7. **검색 조건 정의** 페이지의 **키워드** 영역에 *From:phishingmail@outlook.com AND subject:"Password changed"* 를 입력하고 **다음**을 선택합니다.
 
-8. **검색 항목을 검토한 후 만들기** 창에서 **제출**을 선택합니다.
+8. **검색 항목을 검토한 후 만들기** 창에서 **제출**을 선택합니다. **완료**를 클릭합니다.
 
 9. 검색을 만든 후에는 **Security & Compliance PowerShell**을 사용하여 제거를 시작해야 합니다. 시작 메뉴에서 **Windows PowerShell**을 선택하고 관리자 권한을 실행을 선택합니다.
 
@@ -120,7 +120,7 @@ eDiscovery 케이스를 만들었으며, Mark 8 프로젝트에 대한 정보가
 
 	`Connect-IPPSSession`
 
-11. **PowerShell** 창에서 다음 명령을 사용합니다. **Y** 키를 눌러 명령 실행을 확인합니다.
+11. **PowerShell** 창에서 다음 명령을 사용합니다.
 
 	`New-ComplianceSearchAction -SearchName "Phishing mail removal" -Purge -PurgeType HardDelete`
 
@@ -128,4 +128,4 @@ eDiscovery 케이스를 만들었으며, Mark 8 프로젝트에 대한 정보가
 
 특정 전자 메일을 확인하는 새 콘텐츠 검색을 만들었으며, 제거 작업을 사용하여 사용자 사서함에서 피싱 메일을 삭제했습니다. 조직 관리 역할 구성원만 제거 작업을 실행할 수 있습니다. 준수 관리자는 이 역할의 구성원이 아닙니다.
 
-# 연습 5 계속 진행
+# 랩 3 - 연습 5로 넘어가세요.
